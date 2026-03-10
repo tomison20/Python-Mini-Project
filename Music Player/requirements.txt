@@ -1,0 +1,5 @@
+mutagen
+pypresence
+vlc
+Pillow
+customtkinter
